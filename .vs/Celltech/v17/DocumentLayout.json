@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E43C3A-F40F-48A6-8C15-28E106575895}|Celltech\\Celltech.csproj|c:\\users\\usuario\\documents\\visual studio 2022\\prollecto_celltech.com\\celltech\\celltech\\celltech\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E43C3A-F40F-48A6-8C15-28E106575895}|Celltech\\Celltech.csproj|solutionrelative:celltech\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E43C3A-F40F-48A6-8C15-28E106575895}|Celltech\\Celltech.csproj|c:\\users\\usuario\\documents\\visual studio 2022\\prollecto_celltech.com\\celltech\\celltech\\celltech\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E43C3A-F40F-48A6-8C15-28E106575895}|Celltech\\Celltech.csproj|solutionrelative:celltech\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E43C3A-F40F-48A6-8C15-28E106575895}|Celltech\\Celltech.csproj|c:\\users\\usuario\\documents\\visual studio 2022\\prollecto_celltech.com\\celltech\\celltech\\celltech\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E4E43C3A-F40F-48A6-8C15-28E106575895}|Celltech\\Celltech.csproj|solutionrelative:celltech\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\Celltech\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Celltech\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\Celltech\\MainWindow.xaml",
+              "RelativeToolTip": "Celltech\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-03T05:14:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\Celltech\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "Celltech\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\Celltech\\Menu.xaml.cs",
+              "RelativeToolTip": "Celltech\\Menu.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:01:39.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\Celltech\\Menu.xaml",
+              "RelativeDocumentMoniker": "Celltech\\Menu.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\Celltech\\Menu.xaml",
+              "RelativeToolTip": "Celltech\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-03T03:21:43.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

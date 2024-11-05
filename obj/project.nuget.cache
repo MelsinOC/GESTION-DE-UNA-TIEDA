@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0TMlobFPMM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\Visual Studio 2022\\Prollecto_Celltech.com\\CellTech\\Celltech\\Celltech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
